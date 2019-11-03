@@ -1,0 +1,133 @@
+100 - 32
+U1 - barcelona - 122 - 165
+U2 - szeged - 123 - 101
+U3 - lviv - 103 - 70
+U4 - sofia - 154 - 75
+U5 - madrid - 75 - 89
+U6 - ankara - 48 - 101
+U7 - sofia - 45 - 136
+U8 - moscow - 115 - 68
+U9 - moscow - 126 - 122
+U10 - palermo - 194 - 94
+U11 - barcelona - 178 - 173
+U12 - madrid - 41 - 42
+U13 - mardin - 32 - 83
+U14 - ankara - 91 - 169
+U15 - sofia - 162 - 41
+U16 - moscow - 11 - 180
+U17 - ankara - 131 - 127
+U18 - stockholm - 57 - 56
+U19 - madrid - 57 - 102
+U20 - szeged - 34 - 82
+U21 - oslo - 148 - 146
+U22 - oslo - 189 - 119
+U23 - budapest - 78 - 84
+U24 - madrid - 166 - 149
+U25 - sofia - 27 - 162
+U26 - ankara - 128 - 59
+U27 - szeged - 93 - 129
+U28 - ankara - 58 - 189
+U29 - stockholm - 192 - 40
+U30 - rome - 171 - 154
+U31 - zürich - 58 - 143
+U32 - donetsk - 90 - 55
+U33 - zürich - 165 - 184
+U34 - basel - 97 - 180
+U35 - mardin - 120 - 159
+U36 - erzurum - 196 - 102
+U37 - budapest - 59 - 191
+U38 - rome - 111 - 110
+U39 - budapest - 36 - 81
+U40 - stockholm - 169 - 153
+U41 - basel - 20 - 170
+U42 - rome - 138 - 197
+U43 - zürich - 19 - 116
+U44 - istanbul - 108 - 143
+U45 - madrid - 182 - 83
+U46 - stockholm - 38 - 66
+U47 - budapest - 92 - 191
+U48 - moscow - 93 - 100
+U49 - zürich - 112 - 87
+U50 - rome - 99 - 64
+U51 - moscow - 49 - 148
+U52 - zürich - 111 - 73
+U53 - donetsk - 64 - 192
+U54 - istanbul - 134 - 185
+U55 - moscow - 45 - 110
+U56 - zürich - 177 - 53
+U57 - rome - 162 - 104
+U58 - erzurum - 100 - 130
+U59 - madrid - 66 - 112
+U60 - budapest - 152 - 171
+U61 - budapest - 27 - 62
+U62 - glasgow - 50 - 42
+U63 - lviv - 78 - 98
+U64 - madrid - 34 - 182
+U65 - basel - 49 - 175
+U66 - moscow - 95 - 65
+U67 - basel - 131 - 155
+U68 - stockholm - 89 - 162
+U69 - stockholm - 161 - 141
+U70 - madrid - 101 - 78
+U71 - glasgow - 24 - 97
+U72 - lviv - 78 - 88
+U73 - moscow - 53 - 115
+U74 - budapest - 118 - 102
+U75 - ankara - 91 - 161
+U76 - glasgow - 177 - 186
+U77 - rome - 59 - 81
+U78 - istanbul - 75 - 65
+U79 - rome - 59 - 140
+U80 - palermo - 114 - 176
+U81 - zürich - 125 - 192
+U82 - oslo - 193 - 137
+U83 - moscow - 158 - 137
+U84 - istanbul - 151 - 161
+U85 - szeged - 172 - 117
+U86 - donetsk - 171 - 156
+U87 - glasgow - 197 - 90
+U88 - rome - 116 - 72
+U89 - palermo - 172 - 152
+U90 - glasgow - 22 - 135
+U91 - palermo - 133 - 59
+U92 - budapest - 167 - 107
+U93 - stockholm - 68 - 183
+U94 - budapest - 43 - 134
+U95 - rome - 90 - 81
+U96 - rome - 124 - 178
+U97 - lviv - 10 - 69
+U98 - palermo - 119 - 175
+U99 - barcelona - 164 - 96
+U100 - budapest - 159 - 191
+Frankfurt
+Magdeburg
+Hamburg
+Munich
+Berlin
+Toulouse
+Paris
+Marseille
+London
+Manchester
+Cardiff
+Dublin
+St.Ghislain
+Brussels
+Amsterdam
+Groningen
+Madrid
+Barcelona
+Palermo
+Milan
+Hamina
+Helsinki
+Budapest
+Prague
+Sofia
+Stockholm
+Warsaw
+Zurich
+Vienna
+Copenhagen
+Oslo
+Athens

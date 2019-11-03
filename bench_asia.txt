@@ -1,0 +1,57 @@
+40 - 16
+U1 - dhaka - 107 - 110
+U2 - shanghai - 89 - 136
+U3 - beijing - 120 - 129
+U4 - guangzhou foshan - 73 - 70
+U5 - chongqing - 141 - 90
+U6 - tianjin - 169 - 62
+U7 - shenzhen - 84 - 99
+U8 - chengdu - 123 - 64
+U9 - hangzhou - 113 - 71
+U10 - dongguan - 136 - 192
+U11 - wuhan - 43 - 110
+U12 - shenyang - 133 - 144
+U13 - nanjing - 107 - 40
+U14 - zhengzhou - 14 - 106
+U15 - quanzhou - 175 - 148
+U16 - hong kong - 131 - 73
+U17 - delhi - 110 - 56
+U18 - mumbai - 190 - 119
+U19 - kolkata - 185 - 43
+U20 - bangalore - 154 - 74
+U21 - chennai - 132 - 180
+U22 - hyderabad - 22 - 103
+U23 - ahmedabad - 32 - 114
+U24 - jakarta - 21 - 178
+U25 - tehran - 110 - 161
+U26 - baghdad - 22 - 72
+U27 - tokyo - 15 - 50
+U28 - osaka - 39 - 153
+U29 - nagoya - 164 - 80
+U30 - kuala lumpur - 38 - 101
+U31 - karachi - 52 - 159
+U32 - lahore - 86 - 178
+U33 - manila - 111 - 114
+U34 - riyadh - 54 - 184
+U35 - singapore - 177 - 147
+U36 - seoul - 36 - 107
+U37 - taipei - 145 - 182
+U38 - bangkok - 177 - 61
+U39 - ho chi minh city - 188 - 195
+U40 - hanoi - 99 - 138
+Changhua County
+Chennai
+Hong Kong
+Kuala Lumpur
+Mumbai
+New Delhi
+Osaka
+Singapore
+Taipei
+Tokyo
+Manila
+Busan
+Seoul
+Bangkok
+Bangalore
+Hyderabad

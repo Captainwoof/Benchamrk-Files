@@ -1,0 +1,60 @@
+25 - 34
+U1 - newyork - 17 - 100
+U2 - san_francisco - 184 - 103
+U3 - chicago - 54 - 65
+U4 - boston - 11 - 136
+U5 - los_angles - 138 - 160
+U6 - washington_dc - 112 - 141
+U7 - seattle - 59 - 124
+U8 - austin - 91 - 73
+U9 - new_orleans - 140 - 162
+U10 - las_vegas - 138 - 117
+U11 - san_diego - 89 - 139
+U12 - nashville - 46 - 138
+U13 - portland - 157 - 90
+U14 - miami - 89 - 44
+U15 - denver - 180 - 157
+U16 - philadelphia - 54 - 109
+U17 - minneapolis - 47 - 82
+U18 - detroit - 31 - 133
+U19 - dallas - 187 - 111
+U20 - atlanta - 58 - 200
+U21 - houston - 189 - 51
+U22 - orlando - 37 - 40
+U23 - memphis - 44 - 136
+U24 - st_louis - 28 - 102
+U25 - sacramento - 116 - 145
+Ashburn
+Atlanta
+Cheyenne
+Chicago
+Dallas
+Denver
+Honolulu
+Houston
+Las Vegas
+Los Angeles
+Miami
+New York
+Phoenix
+San Antonio
+San Jose
+Seattle
+Charleston
+Council Bluffs
+Lenoir
+Montréal
+San Francisco
+The Dalles
+Tulsa
+Hayward
+Hillsboro
+Jacksonville
+Minneapolis
+Newark
+Palo Alto
+Philadelphia
+South Bend
+Toronto
+Querétaro
+San Juan

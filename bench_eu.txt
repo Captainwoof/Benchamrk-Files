@@ -1,0 +1,52 @@
+19 - 32
+U1 - istanbul 	- 89 	- 175
+U2 - ankara 	- 120 	- 164
+U3 - erzurum 	- 169 	- 197
+U4 - mardin 	- 40 	- 64
+U5 - donetsk 	- 105 	- 128
+U6 - lviv 		- 77 	- 68
+U7 - budapest 	- 160 	- 112
+U8 - szeged 	- 106 	- 135
+U9 - sofia 		- 34 	- 187
+U10 - stockholm - 183 	- 194
+U11 - zürich 	- 187 	- 59
+U12 - basel 	- 69 	- 127
+U13 - rome 		- 80 	- 161
+U14 - barcelona - 193 	- 173
+U15 - madrid 	- 161 	- 107
+U16 - palermo 	- 142 	- 79
+U17 - glasgow 	- 19 	- 56
+U18 - moscow 	- 77 	- 42
+U19 - oslo 		- 33 	- 74
+Frankfurt
+Magdeburg
+Hamburg
+Munich
+Berlin
+Toulouse
+Paris
+Marseille
+London
+Manchester
+Cardiff
+Dublin
+St.Ghislain
+Brussels
+Amsterdam
+Groningen
+Madrid
+Barcelona
+Palermo
+Milan
+Hamina
+Helsinki
+Budapest
+Prague
+Sofia
+Stockholm
+Warsaw
+Zurich
+Vienna
+Copenhagen
+Oslo
+Athens

@@ -1,0 +1,217 @@
+200 - 16
+U1 - karachi - 80 - 58
+U2 - quanzhou - 73 - 169
+U3 - hong kong - 11 - 86
+U4 - kuala lumpur - 25 - 133
+U5 - tokyo - 78 - 167
+U6 - hanoi - 129 - 89
+U7 - hyderabad - 45 - 64
+U8 - shenzhen - 120 - 176
+U9 - nagoya - 157 - 131
+U10 - seoul - 143 - 142
+U11 - tokyo - 98 - 63
+U12 - hanoi - 26 - 122
+U13 - bangkok - 79 - 149
+U14 - tehran - 187 - 136
+U15 - jakarta - 145 - 120
+U16 - taipei - 91 - 166
+U17 - kolkata - 44 - 50
+U18 - manila - 155 - 133
+U19 - mumbai - 155 - 171
+U20 - bangkok - 72 - 128
+U21 - lahore - 39 - 170
+U22 - tianjin - 14 - 189
+U23 - dhaka - 32 - 61
+U24 - zhengzhou - 35 - 73
+U25 - jakarta - 195 - 170
+U26 - chennai - 96 - 115
+U27 - wuhan - 60 - 164
+U28 - chongqing - 127 - 82
+U29 - hangzhou - 124 - 85
+U30 - shanghai - 138 - 40
+U31 - seoul - 104 - 200
+U32 - riyadh - 130 - 133
+U33 - baghdad - 159 - 89
+U34 - hangzhou - 161 - 44
+U35 - jakarta - 14 - 76
+U36 - tianjin - 10 - 64
+U37 - tehran - 165 - 160
+U38 - wuhan - 62 - 133
+U39 - kolkata - 43 - 118
+U40 - bangkok - 37 - 70
+U41 - tianjin - 39 - 165
+U42 - chengdu - 64 - 87
+U43 - hangzhou - 180 - 127
+U44 - dhaka - 63 - 61
+U45 - hong kong - 169 - 144
+U46 - singapore - 119 - 111
+U47 - seoul - 71 - 168
+U48 - chengdu - 16 - 121
+U49 - guangzhou foshan - 58 - 118
+U50 - chennai - 181 - 79
+U51 - osaka - 135 - 67
+U52 - tianjin - 104 - 66
+U53 - taipei - 74 - 57
+U54 - guangzhou foshan - 92 - 63
+U55 - taipei - 196 - 66
+U56 - kolkata - 96 - 128
+U57 - delhi - 126 - 168
+U58 - quanzhou - 151 - 108
+U59 - tehran - 71 - 179
+U60 - singapore - 47 - 98
+U61 - tehran - 22 - 108
+U62 - chongqing - 114 - 196
+U63 - singapore - 120 - 167
+U64 - hong kong - 117 - 110
+U65 - wuhan - 70 - 59
+U66 - karachi - 196 - 83
+U67 - seoul - 58 - 100
+U68 - kolkata - 197 - 146
+U69 - dhaka - 195 - 114
+U70 - ho chi minh city - 199 - 171
+U71 - guangzhou foshan - 23 - 82
+U72 - guangzhou foshan - 33 - 151
+U73 - hong kong - 116 - 188
+U74 - chongqing - 160 - 163
+U75 - nanjing - 166 - 167
+U76 - shenzhen - 137 - 184
+U77 - hong kong - 134 - 180
+U78 - hyderabad - 63 - 120
+U79 - hanoi - 153 - 96
+U80 - kuala lumpur - 144 - 80
+U81 - taipei - 188 - 103
+U82 - nanjing - 15 - 156
+U83 - baghdad - 89 - 172
+U84 - kolkata - 85 - 180
+U85 - seoul - 118 - 200
+U86 - guangzhou foshan - 41 - 99
+U87 - delhi - 43 - 163
+U88 - dongguan - 32 - 147
+U89 - zhengzhou - 175 - 131
+U90 - chongqing - 76 - 140
+U91 - seoul - 169 - 63
+U92 - shenzhen - 48 - 195
+U93 - singapore - 54 - 114
+U94 - osaka - 138 - 105
+U95 - kuala lumpur - 168 - 149
+U96 - bangkok - 114 - 180
+U97 - manila - 176 - 90
+U98 - dongguan - 123 - 50
+U99 - kolkata - 88 - 167
+U100 - nagoya - 196 - 150
+U101 - beijing - 12 - 90
+U102 - hanoi - 146 - 157
+U103 - hyderabad - 65 - 120
+U104 - osaka - 50 - 138
+U105 - shenyang - 43 - 40
+U106 - kuala lumpur - 53 - 115
+U107 - shenyang - 129 - 123
+U108 - mumbai - 160 - 110
+U109 - riyadh - 198 - 59
+U110 - seoul - 39 - 158
+U111 - shenzhen - 10 - 143
+U112 - delhi - 54 - 140
+U113 - chengdu - 61 - 42
+U114 - hanoi - 174 - 153
+U115 - hangzhou - 103 - 140
+U116 - bangkok - 22 - 64
+U117 - delhi - 20 - 134
+U118 - mumbai - 78 - 163
+U119 - hanoi - 140 - 157
+U120 - nagoya - 181 - 191
+U121 - shenzhen - 171 - 200
+U122 - wuhan - 194 - 41
+U123 - chengdu - 100 - 84
+U124 - tianjin - 43 - 82
+U125 - mumbai - 93 - 101
+U126 - shenzhen - 182 - 88
+U127 - hyderabad - 42 - 52
+U128 - hanoi - 78 - 120
+U129 - manila - 61 - 53
+U130 - lahore - 154 - 121
+U131 - chongqing - 181 - 91
+U132 - shenzhen - 65 - 96
+U133 - shenyang - 24 - 75
+U134 - wuhan - 103 - 114
+U135 - dhaka - 189 - 61
+U136 - manila - 93 - 135
+U137 - tianjin - 121 - 124
+U138 - shenzhen - 120 - 146
+U139 - wuhan - 144 - 140
+U140 - chongqing - 107 - 141
+U141 - chongqing - 198 - 83
+U142 - osaka - 127 - 122
+U143 - chennai - 165 - 54
+U144 - lahore - 53 - 72
+U145 - tehran - 10 - 138
+U146 - karachi - 184 - 125
+U147 - hyderabad - 99 - 71
+U148 - shenyang - 149 - 80
+U149 - singapore - 41 - 167
+U150 - singapore - 38 - 50
+U151 - delhi - 162 - 133
+U152 - ahmedabad - 135 - 173
+U153 - nanjing - 115 - 88
+U154 - chennai - 190 - 87
+U155 - guangzhou foshan - 30 - 88
+U156 - tehran - 168 - 40
+U157 - tokyo - 168 - 130
+U158 - shenzhen - 13 - 143
+U159 - bangkok - 125 - 183
+U160 - taipei - 76 - 47
+U161 - tianjin - 51 - 82
+U162 - lahore - 40 - 88
+U163 - bangkok - 126 - 166
+U164 - seoul - 103 - 172
+U165 - mumbai - 168 - 78
+U166 - hanoi - 181 - 128
+U167 - lahore - 198 - 165
+U168 - nagoya - 156 - 127
+U169 - dongguan - 91 - 73
+U170 - singapore - 99 - 147
+U171 - baghdad - 81 - 170
+U172 - shenzhen - 179 - 122
+U173 - dhaka - 148 - 137
+U174 - tokyo - 193 - 103
+U175 - osaka - 43 - 194
+U176 - chengdu - 118 - 40
+U177 - beijing - 167 - 129
+U178 - kolkata - 94 - 137
+U179 - osaka - 117 - 42
+U180 - ho chi minh city - 191 - 171
+U181 - hong kong - 95 - 50
+U182 - chengdu - 128 - 105
+U183 - seoul - 83 - 187
+U184 - karachi - 98 - 64
+U185 - chengdu - 123 - 106
+U186 - jakarta - 85 - 43
+U187 - hanoi - 99 - 120
+U188 - guangzhou foshan - 66 - 69
+U189 - lahore - 95 - 146
+U190 - lahore - 25 - 113
+U191 - jakarta - 52 - 73
+U192 - bangalore - 116 - 118
+U193 - taipei - 177 - 82
+U194 - baghdad - 46 - 125
+U195 - beijing - 131 - 130
+U196 - chengdu - 45 - 57
+U197 - karachi - 71 - 77
+U198 - tianjin - 65 - 66
+U199 - nagoya - 31 - 154
+U200 - beijing - 30 - 187
+Changhua County
+Chennai
+Hong Kong
+Kuala Lumpur
+Mumbai
+New Delhi
+Osaka
+Singapore
+Taipei
+Tokyo
+Manila
+Busan
+Seoul
+Bangkok
+Bangalore
+Hyderabad

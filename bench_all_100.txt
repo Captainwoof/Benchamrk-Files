@@ -1,0 +1,183 @@
+100 - 82
+U1 - hanoi - 156 - 186
+U2 - new orleans - 47 - 175
+U3 - wuhan - 98 - 95
+U4 - detroit - 143 - 55
+U5 - orlando - 177 - 108
+U6 - zhengzhou - 34 - 145
+U7 - nashville - 114 - 91
+U8 - beijing - 176 - 134
+U9 - stockholm - 55 - 181
+U10 - ahmedabad - 134 - 113
+U11 - ankara - 180 - 149
+U12 - nashville - 66 - 56
+U13 - lahore - 92 - 152
+U14 - mumbai - 12 - 97
+U15 - seattle - 78 - 101
+U16 - bangkok - 125 - 69
+U17 - hangzhou - 124 - 114
+U18 - erzurum - 71 - 173
+U19 - atlanta - 196 - 128
+U20 - portland - 28 - 112
+U21 - newyork - 172 - 134
+U22 - beijing - 163 - 146
+U23 - newyork - 49 - 179
+U24 - moscow - 15 - 190
+U25 - lahore - 122 - 94
+U26 - newyork - 91 - 180
+U27 - boston - 144 - 60
+U28 - stockholm - 21 - 44
+U29 - detroit - 199 - 117
+U30 - erzurum - 149 - 183
+U31 - tianjin - 106 - 40
+U32 - chennai - 112 - 134
+U33 - shanghai - 85 - 119
+U34 - shenyang - 67 - 75
+U35 - barcelona - 161 - 83
+U36 - shanghai - 148 - 170
+U37 - erzurum - 118 - 132
+U38 - tianjin - 119 - 192
+U39 - glasgow - 150 - 111
+U40 - dhaka - 157 - 190
+U41 - seattle - 29 - 136
+U42 - istanbul - 65 - 156
+U43 - philadelphia - 38 - 119
+U44 - moscow - 94 - 136
+U45 - osaka - 107 - 198
+U46 - memphis - 144 - 171
+U47 - sacramento - 116 - 59
+U48 - houston - 14 - 45
+U49 - las vegas - 106 - 176
+U50 - guangzhou foshan - 64 - 168
+U51 - austin - 82 - 70
+U52 - tehran - 198 - 190
+U53 - austin - 44 - 134
+U54 - shenzhen - 68 - 45
+U55 - nashville - 111 - 189
+U56 - karachi - 141 - 57
+U57 - chennai - 190 - 79
+U58 - minneapolis - 21 - 55
+U59 - seoul - 61 - 140
+U60 - mardin - 173 - 96
+U61 - szeged - 16 - 140
+U62 - dongguan - 18 - 99
+U63 - wuhan - 112 - 179
+U64 - lviv - 87 - 82
+U65 - zürich - 121 - 71
+U66 - madrid - 177 - 195
+U67 - rome - 150 - 163
+U68 - tokyo - 17 - 51
+U69 - beijing - 94 - 157
+U70 - nashville - 133 - 40
+U71 - seoul - 198 - 126
+U72 - moscow - 115 - 80
+U73 - tianjin - 106 - 166
+U74 - mardin - 60 - 49
+U75 - kuala lumpur - 63 - 114
+U76 - nagoya - 63 - 73
+U77 - zürich - 12 - 56
+U78 - hyderabad - 115 - 60
+U79 - las vegas - 70 - 90
+U80 - glasgow - 77 - 179
+U81 - ahmedabad - 168 - 170
+U82 - tehran - 148 - 154
+U83 - san francisco - 36 - 183
+U84 - singapore - 88 - 151
+U85 - dhaka - 121 - 164
+U86 - zürich - 118 - 154
+U87 - lviv - 107 - 94
+U88 - seoul - 86 - 172
+U89 - chicago - 164 - 87
+U90 - washington dc - 156 - 75
+U91 - hyderabad - 166 - 56
+U92 - chengdu - 97 - 186
+U93 - ahmedabad - 107 - 134
+U94 - las vegas - 183 - 99
+U95 - new orleans - 61 - 125
+U96 - osaka - 165 - 99
+U97 - hangzhou - 166 - 96
+U98 - manila - 51 - 57
+U99 - szeged - 39 - 79
+U100 - orlando - 55 - 190
+Changhua County
+Chennai			
+Hong Kong		
+Kuala Lumpur	
+Mumbai			
+New Delhi		
+Osaka			
+Singapore		
+Taipei			
+Tokyo			
+Manila			
+Busan			
+Seoul			
+Bangkok			
+Bangalore		
+Hyderabad
+Ashburn
+Atlanta
+Cheyenne
+Chicago
+Dallas
+Denver
+Honolulu
+Houston
+Las Vegas
+Los Angeles
+Miami
+New York
+Phoenix
+San Antonio
+San Jose
+Seattle
+Charleston
+Council Bluffs
+Lenoir
+Montréal
+San Francisco
+The Dalles
+Tulsa
+Hayward
+Hillsboro
+Jacksonville
+Minneapolis
+Newark
+Palo Alto
+Philadelphia
+South Bend
+Toronto
+Querétaro
+San Juan
+Frankfurt
+Magdeburg
+Hamburg
+Munich
+Berlin
+Toulouse
+Paris
+Marseille
+London
+Manchester
+Cardiff
+Dublin
+St.Ghislain
+Brussels
+Amsterdam
+Groningen
+Madrid
+Barcelona
+Palermo
+Milan
+Hamina
+Helsinki
+Budapest
+Prague
+Sofia
+Stockholm
+Warsaw
+Zurich
+Vienna
+Copenhagen
+Oslo
+Athens

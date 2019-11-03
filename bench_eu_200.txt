@@ -1,0 +1,233 @@
+200 - 32
+U1 - glasgow - 28 - 108
+U2 - erzurum - 125 - 70
+U3 - palermo - 65 - 137
+U4 - szeged - 186 - 44
+U5 - moscow - 186 - 94
+U6 - budapest - 167 - 60
+U7 - rome - 32 - 51
+U8 - budapest - 149 - 186
+U9 - madrid - 106 - 136
+U10 - madrid - 73 - 166
+U11 - barcelona - 75 - 80
+U12 - oslo - 18 - 161
+U13 - budapest - 83 - 149
+U14 - moscow - 136 - 197
+U15 - lviv - 37 - 141
+U16 - palermo - 96 - 96
+U17 - lviv - 15 - 195
+U18 - barcelona - 78 - 146
+U19 - erzurum - 111 - 97
+U20 - rome - 196 - 170
+U21 - basel - 81 - 168
+U22 - sofia - 72 - 96
+U23 - palermo - 165 - 115
+U24 - glasgow - 41 - 163
+U25 - oslo - 177 - 171
+U26 - basel - 152 - 191
+U27 - moscow - 112 - 45
+U28 - madrid - 54 - 139
+U29 - stockholm - 106 - 50
+U30 - barcelona - 63 - 78
+U31 - istanbul - 70 - 58
+U32 - ankara - 68 - 91
+U33 - palermo - 116 - 191
+U34 - palermo - 15 - 170
+U35 - szeged - 20 - 137
+U36 - glasgow - 80 - 87
+U37 - zürich - 74 - 145
+U38 - rome - 160 - 142
+U39 - budapest - 11 - 129
+U40 - stockholm - 114 - 51
+U41 - zürich - 181 - 198
+U42 - donetsk - 67 - 64
+U43 - barcelona - 39 - 96
+U44 - erzurum - 164 - 128
+U45 - donetsk - 116 - 76
+U46 - budapest - 78 - 108
+U47 - madrid - 191 - 72
+U48 - istanbul - 35 - 166
+U49 - istanbul - 181 - 93
+U50 - madrid - 115 - 76
+U51 - istanbul - 194 - 189
+U52 - erzurum - 90 - 77
+U53 - madrid - 23 - 112
+U54 - oslo - 172 - 137
+U55 - budapest - 83 - 189
+U56 - basel - 62 - 194
+U57 - erzurum - 138 - 130
+U58 - erzurum - 14 - 194
+U59 - mardin - 80 - 140
+U60 - stockholm - 20 - 43
+U61 - mardin - 125 - 46
+U62 - moscow - 12 - 169
+U63 - oslo - 32 - 69
+U64 - szeged - 192 - 152
+U65 - donetsk - 46 - 147
+U66 - zürich - 162 - 183
+U67 - budapest - 43 - 89
+U68 - sofia - 192 - 41
+U69 - basel - 78 - 109
+U70 - madrid - 39 - 77
+U71 - stockholm - 140 - 56
+U72 - erzurum - 180 - 122
+U73 - sofia - 12 - 145
+U74 - barcelona - 100 - 48
+U75 - oslo - 58 - 87
+U76 - erzurum - 115 - 190
+U77 - ankara - 187 - 187
+U78 - sofia - 122 - 62
+U79 - mardin - 128 - 49
+U80 - mardin - 29 - 187
+U81 - glasgow - 175 - 51
+U82 - zürich - 184 - 95
+U83 - szeged - 30 - 61
+U84 - szeged - 112 - 56
+U85 - ankara - 174 - 50
+U86 - istanbul - 60 - 120
+U87 - zürich - 183 - 45
+U88 - madrid - 76 - 77
+U89 - basel - 127 - 116
+U90 - barcelona - 186 - 104
+U91 - donetsk - 25 - 198
+U92 - oslo - 59 - 60
+U93 - rome - 78 - 120
+U94 - barcelona - 124 - 179
+U95 - glasgow - 53 - 41
+U96 - sofia - 115 - 180
+U97 - erzurum - 177 - 120
+U98 - istanbul - 24 - 120
+U99 - erzurum - 165 - 85
+U100 - szeged - 80 - 111
+U101 - mardin - 174 - 177
+U102 - glasgow - 104 - 74
+U103 - zürich - 120 - 170
+U104 - budapest - 76 - 76
+U105 - glasgow - 106 - 160
+U106 - madrid - 118 - 134
+U107 - madrid - 177 - 122
+U108 - rome - 175 - 85
+U109 - istanbul - 57 - 199
+U110 - ankara - 179 - 119
+U111 - glasgow - 170 - 185
+U112 - glasgow - 133 - 195
+U113 - rome - 163 - 172
+U114 - zürich - 162 - 89
+U115 - stockholm - 120 - 170
+U116 - mardin - 92 - 162
+U117 - palermo - 175 - 69
+U118 - rome - 66 - 84
+U119 - istanbul - 193 - 127
+U120 - oslo - 139 - 133
+U121 - basel - 198 - 133
+U122 - szeged - 58 - 140
+U123 - basel - 193 - 111
+U124 - oslo - 48 - 179
+U125 - zürich - 19 - 58
+U126 - glasgow - 100 - 71
+U127 - erzurum - 31 - 195
+U128 - barcelona - 86 - 50
+U129 - basel - 93 - 161
+U130 - lviv - 65 - 57
+U131 - istanbul - 108 - 111
+U132 - szeged - 176 - 91
+U133 - ankara - 154 - 168
+U134 - palermo - 43 - 192
+U135 - madrid - 63 - 122
+U136 - szeged - 75 - 152
+U137 - moscow - 195 - 63
+U138 - stockholm - 26 - 45
+U139 - basel - 39 - 111
+U140 - erzurum - 153 - 173
+U141 - istanbul - 170 - 63
+U142 - glasgow - 121 - 185
+U143 - sofia - 28 - 130
+U144 - basel - 65 - 66
+U145 - donetsk - 22 - 102
+U146 - barcelona - 158 - 197
+U147 - barcelona - 91 - 115
+U148 - moscow - 196 - 142
+U149 - glasgow - 51 - 82
+U150 - istanbul - 182 - 190
+U151 - madrid - 132 - 43
+U152 - basel - 168 - 192
+U153 - erzurum - 128 - 118
+U154 - lviv - 136 - 191
+U155 - erzurum - 44 - 121
+U156 - oslo - 78 - 150
+U157 - stockholm - 81 - 188
+U158 - mardin - 70 - 147
+U159 - erzurum - 48 - 127
+U160 - istanbul - 149 - 46
+U161 - glasgow - 115 - 103
+U162 - rome - 89 - 107
+U163 - budapest - 114 - 95
+U164 - barcelona - 30 - 197
+U165 - rome - 85 - 98
+U166 - madrid - 33 - 83
+U167 - zürich - 179 - 116
+U168 - zürich - 51 - 42
+U169 - moscow - 107 - 193
+U170 - donetsk - 34 - 125
+U171 - sofia - 149 - 128
+U172 - glasgow - 73 - 187
+U173 - basel - 155 - 170
+U174 - madrid - 197 - 156
+U175 - oslo - 23 - 182
+U176 - glasgow - 131 - 50
+U177 - ankara - 145 - 169
+U178 - budapest - 105 - 51
+U179 - madrid - 70 - 71
+U180 - barcelona - 115 - 129
+U181 - madrid - 48 - 99
+U182 - zürich - 193 - 166
+U183 - sofia - 131 - 168
+U184 - istanbul - 195 - 74
+U185 - glasgow - 11 - 115
+U186 - palermo - 164 - 63
+U187 - budapest - 93 - 197
+U188 - erzurum - 31 - 99
+U189 - mardin - 160 - 61
+U190 - szeged - 15 - 105
+U191 - rome - 72 - 74
+U192 - budapest - 187 - 132
+U193 - rome - 91 - 172
+U194 - lviv - 160 - 198
+U195 - sofia - 183 - 64
+U196 - moscow - 95 - 196
+U197 - stockholm - 63 - 166
+U198 - rome - 112 - 110
+U199 - donetsk - 23 - 100
+U200 - istanbul - 33 - 121
+Frankfurt
+Magdeburg
+Hamburg
+Munich
+Berlin
+Toulouse
+Paris
+Marseille
+London
+Manchester
+Cardiff
+Dublin
+St.Ghislain
+Brussels
+Amsterdam
+Groningen
+Madrid
+Barcelona
+Palermo
+Milan
+Hamina
+Helsinki
+Budapest
+Prague
+Sofia
+Stockholm
+Warsaw
+Zurich
+Vienna
+Copenhagen
+Oslo
+Athens

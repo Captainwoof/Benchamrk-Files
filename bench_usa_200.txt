@@ -1,0 +1,235 @@
+200 - 34
+U1 - chicago - 150 - 149
+U2 - minneapolis - 98 - 116
+U3 - atlanta - 72 - 95
+U4 - sacramento - 91 - 178
+U5 - philadelphia - 139 - 87
+U6 - minneapolis - 142 - 96
+U7 - san francisco - 87 - 58
+U8 - newyork - 119 - 162
+U9 - atlanta - 128 - 131
+U10 - chicago - 81 - 90
+U11 - philadelphia - 104 - 119
+U12 - portland - 118 - 58
+U13 - san francisco - 132 - 103
+U14 - seattle - 143 - 146
+U15 - washington dc - 170 - 128
+U16 - los angles - 82 - 74
+U17 - san diego - 48 - 92
+U18 - st louis - 115 - 151
+U19 - washington dc - 197 - 121
+U20 - san francisco - 199 - 82
+U21 - dallas - 85 - 76
+U22 - boston - 71 - 144
+U23 - new orleans - 82 - 140
+U24 - newyork - 142 - 159
+U25 - portland - 102 - 128
+U26 - austin - 111 - 155
+U27 - newyork - 111 - 137
+U28 - new orleans - 122 - 156
+U29 - san francisco - 190 - 180
+U30 - washington dc - 153 - 151
+U31 - new orleans - 173 - 63
+U32 - dallas - 181 - 180
+U33 - miami - 24 - 153
+U34 - minneapolis - 72 - 133
+U35 - san francisco - 68 - 82
+U36 - atlanta - 60 - 103
+U37 - newyork - 62 - 161
+U38 - san francisco - 61 - 167
+U39 - chicago - 178 - 199
+U40 - philadelphia - 100 - 156
+U41 - dallas - 45 - 72
+U42 - los angles - 115 - 181
+U43 - nashville - 12 - 59
+U44 - portland - 91 - 109
+U45 - portland - 150 - 165
+U46 - boston - 48 - 174
+U47 - chicago - 61 - 115
+U48 - portland - 147 - 108
+U49 - las vegas - 156 - 84
+U50 - orlando - 143 - 123
+U51 - minneapolis - 178 - 69
+U52 - san diego - 58 - 191
+U53 - denver - 200 - 132
+U54 - nashville - 116 - 53
+U55 - newyork - 125 - 171
+U56 - las vegas - 55 - 180
+U57 - memphis - 119 - 156
+U58 - washington dc - 19 - 176
+U59 - orlando - 63 - 140
+U60 - houston - 108 - 190
+U61 - st louis - 58 - 200
+U62 - sacramento - 47 - 115
+U63 - sacramento - 35 - 159
+U64 - new orleans - 164 - 144
+U65 - orlando - 89 - 197
+U66 - san diego - 183 - 149
+U67 - washington dc - 151 - 92
+U68 - st louis - 19 - 123
+U69 - atlanta - 196 - 165
+U70 - seattle - 110 - 41
+U71 - minneapolis - 106 - 156
+U72 - newyork - 88 - 164
+U73 - detroit - 37 - 120
+U74 - miami - 129 - 52
+U75 - austin - 37 - 157
+U76 - memphis - 102 - 195
+U77 - newyork - 144 - 102
+U78 - st louis - 185 - 134
+U79 - philadelphia - 111 - 51
+U80 - minneapolis - 170 - 90
+U81 - newyork - 196 - 167
+U82 - new orleans - 72 - 103
+U83 - los angles - 195 - 144
+U84 - boston - 130 - 194
+U85 - las vegas - 19 - 167
+U86 - detroit - 187 - 159
+U87 - nashville - 164 - 123
+U88 - seattle - 174 - 101
+U89 - san diego - 163 - 78
+U90 - st louis - 60 - 59
+U91 - chicago - 188 - 100
+U92 - los angles - 77 - 199
+U93 - boston - 102 - 57
+U94 - orlando - 171 - 169
+U95 - memphis - 93 - 75
+U96 - newyork - 15 - 110
+U97 - los angles - 95 - 174
+U98 - atlanta - 193 - 166
+U99 - san diego - 99 - 176
+U100 - new orleans - 192 - 127
+U101 - atlanta - 163 - 200
+U102 - newyork - 128 - 131
+U103 - memphis - 98 - 99
+U104 - newyork - 32 - 104
+U105 - austin - 124 - 115
+U106 - san diego - 137 - 181
+U107 - austin - 77 - 55
+U108 - houston - 177 - 133
+U109 - portland - 13 - 97
+U110 - houston - 41 - 66
+U111 - new orleans - 198 - 44
+U112 - memphis - 192 - 146
+U113 - boston - 77 - 166
+U114 - los angles - 23 - 185
+U115 - detroit - 140 - 134
+U116 - boston - 107 - 122
+U117 - st louis - 170 - 91
+U118 - new orleans - 35 - 196
+U119 - memphis - 182 - 80
+U120 - austin - 42 - 155
+U121 - las vegas - 186 - 142
+U122 - minneapolis - 10 - 185
+U123 - washington dc - 118 - 93
+U124 - atlanta - 191 - 111
+U125 - san diego - 99 - 85
+U126 - houston - 161 - 84
+U127 - seattle - 50 - 94
+U128 - sacramento - 144 - 118
+U129 - orlando - 112 - 104
+U130 - boston - 119 - 176
+U131 - los angles - 185 - 63
+U132 - orlando - 184 - 90
+U133 - memphis - 170 - 148
+U134 - houston - 92 - 79
+U135 - nashville - 176 - 69
+U136 - newyork - 17 - 158
+U137 - los angles - 138 - 143
+U138 - st louis - 179 - 95
+U139 - chicago - 62 - 99
+U140 - portland - 50 - 93
+U141 - boston - 176 - 169
+U142 - boston - 186 - 97
+U143 - san francisco - 80 - 75
+U144 - san diego - 131 - 74
+U145 - los angles - 65 - 132
+U146 - detroit - 127 - 88
+U147 - san francisco - 175 - 82
+U148 - miami - 163 - 76
+U149 - portland - 81 - 165
+U150 - minneapolis - 79 - 172
+U151 - st louis - 84 - 193
+U152 - nashville - 108 - 138
+U153 - minneapolis - 74 - 172
+U154 - orlando - 196 - 141
+U155 - las vegas - 54 - 190
+U156 - chicago - 155 - 89
+U157 - san francisco - 183 - 110
+U158 - houston - 139 - 107
+U159 - memphis - 163 - 63
+U160 - nashville - 38 - 126
+U161 - austin - 113 - 105
+U162 - washington dc - 181 - 70
+U163 - detroit - 183 - 175
+U164 - seattle - 56 - 126
+U165 - newyork - 84 - 83
+U166 - houston - 79 - 137
+U167 - houston - 200 - 136
+U168 - new orleans - 121 - 175
+U169 - miami - 40 - 148
+U170 - minneapolis - 145 - 188
+U171 - new orleans - 142 - 159
+U172 - portland - 194 - 134
+U173 - memphis - 16 - 122
+U174 - austin - 168 - 55
+U175 - san diego - 162 - 69
+U176 - seattle - 83 - 163
+U177 - detroit - 78 - 76
+U178 - newyork - 37 - 44
+U179 - sacramento - 98 - 120
+U180 - san francisco - 29 - 150
+U181 - memphis - 100 - 62
+U182 - denver - 141 - 100
+U183 - miami - 102 - 73
+U184 - nashville - 63 - 124
+U185 - miami - 24 - 152
+U186 - nashville - 173 - 137
+U187 - denver - 19 - 185
+U188 - nashville - 12 - 195
+U189 - atlanta - 172 - 155
+U190 - st louis - 162 - 198
+U191 - san francisco - 145 - 59
+U192 - new orleans - 53 - 76
+U193 - dallas - 35 - 199
+U194 - orlando - 83 - 198
+U195 - nashville - 156 - 163
+U196 - minneapolis - 185 - 103
+U197 - los angles - 42 - 167
+U198 - philadelphia - 22 - 152
+U199 - seattle - 79 - 61
+U200 - nashville - 163 - 42
+Ashburn
+Atlanta
+Cheyenne
+Chicago
+Dallas
+Denver
+Honolulu
+Houston
+Las Vegas
+Los Angeles
+Miami
+New York
+Phoenix
+San Antonio
+San Jose
+Seattle
+Charleston
+Council Bluffs
+Lenoir
+Montréal
+San Francisco
+The Dalles
+Tulsa
+Hayward
+Hillsboro
+Jacksonville
+Minneapolis
+Newark
+Palo Alto
+Philadelphia
+South Bend
+Toronto
+Querétaro
+San Juan

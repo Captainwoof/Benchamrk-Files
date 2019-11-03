@@ -1,0 +1,117 @@
+100 - 16
+U1 - jakarta - 133 - 60
+U2 - mumbai - 54 - 104
+U3 - hyderabad - 121 - 163
+U4 - kuala lumpur - 147 - 196
+U5 - seoul - 120 - 186
+U6 - nanjing - 132 - 99
+U7 - hanoi - 133 - 41
+U8 - baghdad - 174 - 66
+U9 - hyderabad - 108 - 54
+U10 - kuala lumpur - 79 - 188
+U11 - hangzhou - 89 - 170
+U12 - dongguan - 109 - 175
+U13 - ahmedabad - 188 - 141
+U14 - tokyo - 13 - 145
+U15 - karachi - 19 - 136
+U16 - mumbai - 193 - 172
+U17 - mumbai - 186 - 193
+U18 - taipei - 182 - 149
+U19 - beijing - 109 - 100
+U20 - hangzhou - 111 - 136
+U21 - lahore - 123 - 83
+U22 - lahore - 27 - 126
+U23 - shanghai - 175 - 120
+U24 - mumbai - 124 - 109
+U25 - shenyang - 47 - 90
+U26 - osaka - 16 - 44
+U27 - taipei - 154 - 88
+U28 - lahore - 80 - 164
+U29 - hangzhou - 48 - 185
+U30 - bangalore - 22 - 51
+U31 - kolkata - 15 - 107
+U32 - osaka - 20 - 102
+U33 - shenyang - 72 - 114
+U34 - manila - 161 - 83
+U35 - seoul - 180 - 139
+U36 - singapore - 108 - 100
+U37 - tehran - 154 - 142
+U38 - hanoi - 88 - 61
+U39 - chennai - 172 - 127
+U40 - chengdu - 140 - 92
+U41 - delhi - 168 - 163
+U42 - delhi - 91 - 196
+U43 - beijing - 163 - 145
+U44 - chennai - 61 - 136
+U45 - hanoi - 130 - 133
+U46 - chennai - 123 - 80
+U47 - taipei - 138 - 166
+U48 - beijing - 105 - 175
+U49 - nagoya - 47 - 60
+U50 - zhengzhou - 68 - 117
+U51 - shenzhen - 170 - 102
+U52 - riyadh - 196 - 105
+U53 - tokyo - 14 - 92
+U54 - zhengzhou - 49 - 199
+U55 - tehran - 128 - 53
+U56 - ahmedabad - 178 - 87
+U57 - shenzhen - 29 - 180
+U58 - tianjin - 195 - 165
+U59 - hyderabad - 77 - 138
+U60 - seoul - 117 - 168
+U61 - bangkok - 89 - 115
+U62 - hangzhou - 86 - 56
+U63 - shenyang - 34 - 137
+U64 - lahore - 120 - 69
+U65 - lahore - 103 - 42
+U66 - tehran - 23 - 74
+U67 - chongqing - 177 - 89
+U68 - baghdad - 108 - 66
+U69 - wuhan - 124 - 56
+U70 - manila - 40 - 130
+U71 - kuala lumpur - 117 - 69
+U72 - singapore - 25 - 115
+U73 - hong kong - 88 - 115
+U74 - bangalore - 199 - 195
+U75 - hangzhou - 92 - 75
+U76 - mumbai - 182 - 55
+U77 - ahmedabad - 97 - 189
+U78 - chongqing - 163 - 137
+U79 - beijing - 40 - 155
+U80 - ahmedabad - 174 - 105
+U81 - quanzhou - 98 - 192
+U82 - tehran - 188 - 141
+U83 - wuhan - 108 - 85
+U84 - kolkata - 115 - 128
+U85 - jakarta - 102 - 184
+U86 - shenyang - 116 - 195
+U87 - hyderabad - 14 - 151
+U88 - manila - 90 - 183
+U89 - nagoya - 13 - 171
+U90 - zhengzhou - 102 - 191
+U91 - jakarta - 168 - 161
+U92 - kuala lumpur - 178 - 107
+U93 - taipei - 111 - 134
+U94 - hangzhou - 25 - 141
+U95 - ahmedabad - 48 - 178
+U96 - zhengzhou - 142 - 72
+U97 - dongguan - 89 - 125
+U98 - dhaka - 75 - 195
+U99 - jakarta - 92 - 61
+U100 - singapore - 11 - 118
+Changhua County
+Chennai
+Hong Kong
+Kuala Lumpur
+Mumbai
+New Delhi
+Osaka
+Singapore
+Taipei
+Tokyo
+Manila
+Busan
+Seoul
+Bangkok
+Bangalore
+Hyderabad
